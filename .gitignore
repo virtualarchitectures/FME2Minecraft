@@ -1,0 +1,4 @@
+# FME Files
+MapTileBoundsExtractor/*.log
+MapTileBoundsExtractor/*.recover
+MapTileBoundsExtractor/wb-xlate-*
