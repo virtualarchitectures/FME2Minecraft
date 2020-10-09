@@ -6,8 +6,8 @@ FME allows Mincraft levels to be read as Pointclouds. Standard pointcloud tools 
 
 Links: 
 
-- Geospatial and Minecraft - Why you should care: https://youtu.be/uRYBZ6PMe4k
-- How to make Minecraft worlds: https://community.safe.com/s/article/how-to-make-minecraft-worlds
+- [Geospatial and Minecraft - Why you should care](https://youtu.be/uRYBZ6PMe4k)
+- [How to make Minecraft worlds](https://community.safe.com/s/article/how-to-make-minecraft-worlds)
 
 ## Licence
 
